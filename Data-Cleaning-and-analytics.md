@@ -34,6 +34,8 @@ First in the list is
 
 [D-DOS sentiment, price chart.pdf](https://github.com/user-attachments/files/18480132/D-DOS.sentiment.price.chart.pdf)
 
+# Source: Flipkart (Product pages)
+
 1) Count of sentiments in the whole dataset (pie chart)
 2) Count of features in the form of donut chart
 3) Sum of Ratings by name
