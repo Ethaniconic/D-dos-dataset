@@ -41,3 +41,7 @@ First in the list is
 4) Count of Price
 
 # Source: Flipkart (Product pages)
+
+100% of the data is scrapped from flipkart.com. The whole dataset is generated of the the real-time values available on the product page. 
+The whole dataset tells us the sentiment of the users that have bought a specific product recently.
+The sentiments(Positive, Negative and Neutral) are judged on the basis of the user-rating.
